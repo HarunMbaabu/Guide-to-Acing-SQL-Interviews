@@ -1,7 +1,7 @@
 # SQL Practice question
 
 
-## From earthquick.csv file, what was the largest earthquick in 2010?
+## From earthquake.csv file, what was the largest earthquick in 2010?
 
 ~~~SQL
 SELECT *
