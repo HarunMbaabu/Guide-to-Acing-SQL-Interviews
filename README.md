@@ -1,5 +1,7 @@
-SQL Practice question
+# SQL Practice question
 
+
+## From earthquick.csv file, what was the largest earthquick in 2010?
 
 ~~~SQL
 SELECT *
