@@ -22,3 +22,5 @@ ORDER BY magnitude DESC
 LIMIT 1;
 
 ~~~
+
+Now the above queries will return only one row with the largest earthquick
