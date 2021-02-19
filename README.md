@@ -1,6 +1,6 @@
 # SQL Practice question
 
-**Create a Database ORG **
+**Create a Database ORG**
 ~~~sql
 CREATE DATABASE ORG;
 SHOW DATABASES;
