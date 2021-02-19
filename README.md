@@ -72,7 +72,44 @@ INSERT INTO Title
 
 ## 50 Starter Questions
 
+#### Q-1. Write an SQL query to fetch “FIRST_NAME” from Worker table using the alias name as <WORKER_NAME>.
 
+**Ans.**
+
+~~~sql 
+Select FIRST_NAME AS WORKER_NAME from Worker;
+~~~
+
+#### Q-2. Write an SQL query to fetch “FIRST_NAME” from Worker table in upper case.
+**Ans.**
+
+~~~sql
+Select upper(FIRST_NAME) from Worker;
+~~~
+
+#### Q-3. Write an SQL query to fetch unique values of DEPARTMENT from Worker table.
+
+**Ans.**
+~~~sql
+Select distinct DEPARTMENT from Worker;
+~~~ 
+
+#### Q-4. Write an SQL query to print the first three characters of  FIRST_NAME from Worker table.
+
+**Ans.**
+~~~sql
+Select substring(FIRST_NAME,1,3) from Worker;
+~~~ 
+
+#### Q-5. Write an SQL query to find the position of the alphabet (‘a’) in the first name column ‘Amitabh’ from Worker table.
+
+**Ans.**
+
+~~~sql
+Select INSTR(FIRST_NAME, BINARY'a') from Worker where FIRST_NAME = 'Amitabh';
+~~~
+
+# More Practice:
 
 
 ## From earthquake.csv file, what was the largest earthquick in 2010?
