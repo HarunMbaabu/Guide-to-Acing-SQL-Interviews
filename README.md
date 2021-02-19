@@ -101,13 +101,17 @@ Select distinct DEPARTMENT from Worker;
 Select substring(FIRST_NAME,1,3) from Worker;
 ~~~ 
 
-#### Q-5. Write an SQL query to find the position of the alphabet (‘a’) in the first name column ‘Amitabh’ from Worker table.
+#### Q-5. Write an SQL query to find the position of the alphabet (‘a’) in the first name column ’Mary’ from Worker table.
 
 **Ans.**
 
 ~~~sql
-Select INSTR(FIRST_NAME, BINARY'a') from Worker where FIRST_NAME = 'Amitabh';
+Select INSTR(FIRST_NAME, BINARY'a') from Worker where FIRST_NAME = 'Mary';
 ~~~
+
+
+
+
 
 # More Practice:
 
