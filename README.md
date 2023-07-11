@@ -32,9 +32,9 @@ Here's a guide to help you succeed in your SQL interviews:
 - Solve SQL puzzles and exercises available online or in SQL textbooks to enhance your query-writing skills.
 
 ### **Study Relational Database Concepts:**
-Understand the relationships between tables, such as one-to-one, one-to-many, and many-to-many.
-Learn about primary keys, foreign keys, and their roles in maintaining data integrity.
-Be aware of different types of relationships, such as inner joins, left joins, right joins, and full outer joins.
+- Understand the relationships between tables, such as one-to-one, one-to-many, and many-to-many.
+- Learn about primary keys, foreign keys, and their roles in maintaining data integrity.
+- Be aware of different types of relationships, such as inner joins, left joins, right joins, and full outer joins.
 
 ### **Gain Practical Experience:**
 - Work on real-world SQL projects or create sample databases to gain hands-on experience.
