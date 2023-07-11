@@ -1,4 +1,4 @@
-# **Guide-to-Acing-SQL-Interviews**
+# **Guide to Acing SQL Interviews**
 
 **SQL (Structured Query Language)** is a powerful and widely used programming language for managing and manipulating relational databases. It plays a crucial role in data analysis, data manipulation, and database management.
 
