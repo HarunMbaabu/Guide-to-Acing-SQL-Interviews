@@ -13,10 +13,51 @@ To prepare you for performance tuning questions, we'll discuss techniques for op
 By following this beginner's guide, you'll gain the knowledge and confidence to excel in SQL interviews, demonstrating your expertise in SQL and database management to potential employers. Let's dive in and become proficient in the world of SQL!
 
 
+>>> Acing SQL interviews requires a combination of knowledge, preparation, and effective communication. 
+
+Here's a guide to help you succeed in your SQL interviews:
+
+### **Review the Basics**:
+- Brush up on fundamental SQL concepts, such as tables, columns, rows, primary keys, foreign keys, and relationships between tables.
+- Understand different data types, such as integers, strings, dates, and booleans, and how they are used in SQL.
+- Familiarize yourself with basic SQL operations, including SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, HAVING, and ORDER BY.
+
+### **Understand Database Concepts:**
+- Learn about database management systems (DBMS) and the different types, such as MySQL, Oracle, SQL Server, and PostgreSQL.
+- Gain knowledge about normalization techniques, indexing, and query optimization to demonstrate a deep understanding of database design and performance.
+
+### **Practice SQL Queries:**
+- Work on a variety of SQL queries involving simple and complex SELECT statements.
+- Practice writing queries with conditions using WHERE clauses, aggregate functions, subqueries, and multiple table joins.
+- Solve SQL puzzles and exercises available online or in SQL textbooks to enhance your query-writing skills.
+
+### **Study Relational Database Concepts:**
+Understand the relationships between tables, such as one-to-one, one-to-many, and many-to-many.
+Learn about primary keys, foreign keys, and their roles in maintaining data integrity.
+Be aware of different types of relationships, such as inner joins, left joins, right joins, and full outer joins.
+
+### **Gain Practical Experience:**
+- Work on real-world SQL projects or create sample databases to gain hands-on experience.
+- Use online platforms like SQLFiddle, SQLZoo, or interactive tutorials to practice writing and executing SQL queries.
+- Consider contributing to open-source projects or participating in data-related challenges to showcase your SQL skills.
+
+### **Be Familiar with Advanced Topics:**
+- Learn about stored procedures, views, triggers, and functions to demonstrate your ability to leverage SQL for complex tasks.
+- Understand how to handle large datasets efficiently, including techniques like partitioning and indexing.
+- Familiarize yourself with database administration tasks, such as backup and recovery, security, and user management.
 
 
+### **Resources to Learn SQL**
 
-## **SQL Practice question**
+1). w3Shool SQL Tutorial: https://www.w3schools.com/sql/default.asp
+
+2). SQL Server Tutorial: https://www.sqlservertutorial.net/ 
+
+3). Programiz SQL Tutorial for Beginners: https://www.programiz.com/sql
+
+5). GitLab SQL Style Guide: https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/
+
+### **SQL Practice question**
 
 **Create a Database ORG**
 ~~~sql
@@ -158,3 +199,20 @@ LIMIT 1;
 ~~~
 
 Now the above queries will return only one row with the largest earthquick
+
+
+
+## **Bonus Tips**
+
+- Research common SQL interview questions and practice answering them concisely.
+- Be prepared to explain your thought process and reasoning behind your query solutions.
+- Understand how to optimize queries and troubleshoot performance issues.
+
+
+- During interviews, clearly communicate your understanding of the problem and your approach to solving it using SQL, use proper SQL syntax and adhere to best practices, and sk clarifying questions if necessary and seek feedback to ensure your solutions are meeting the interviewer's expectations.
+
+
+Also Keep yourself updated with the latest SQL features and enhancements in popular database management systems, stay informed about industry trends, such as NoSQL databases and big data technologies, to demonstrate your broader knowledge of data management.
+
+
+After each interview, assess your performance and seek feedback from interviewers or mentors, dentify areas where you can improve and focus on strengthening those skills and remember, practice and preparation are key to acing SQL interviews. The more you practice and gain hands-on experience, the more confident you'll be in demonstrating your SQL skills and problem-solving abilities. 
